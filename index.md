@@ -1,3 +1,11 @@
+---
+title: 文献计量工具
+layout: 文献计量工具
+---
+
+
+
+
 # 高效文献计量工具推介
 
 ***通过现成的爬取+可视化分析+GPT文档解析工具，协助你快速了解一个陌生的研究领域 :]***
@@ -138,9 +146,15 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 python main.py
 ```
 
-
-
-
-
-
 WiKi页面：[项目配置说明 · binary-husky/gpt_academic Wiki · GitHub](https://github.com/binary-husky/gpt_academic/wiki/%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E)
+
+
+----
+^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
+[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[GitHub Pages]: https://docs.github.com/en/pages
+[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+[Jekyll]: https://jekyllrb.com
+[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
